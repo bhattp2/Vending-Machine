@@ -1,0 +1,14 @@
+D:\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+D:\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\Acronym\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\Acronym\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\Acronym\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\Acronym\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+D:\Acronym\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Acronym\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\Acronym\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
